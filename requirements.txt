@@ -1,0 +1,5 @@
+# for rest & SDK client
+python-dotenv
+
+# for sdk client
+azure-ai-textanalytics==5.3.0
